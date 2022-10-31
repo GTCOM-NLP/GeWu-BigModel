@@ -25,7 +25,6 @@ JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/1ZEtWBpbPBBXZcgSZqT67_w">百�
 
 
 ## 发布计划 Release Plan：
--------------------------------------------------
 1、JoveBM-NLU-pd模型，纯数据版本，无知识增强版， 10月28日
 
 2、JoveBM-NLU-kg，知识增强版， 11月30日
