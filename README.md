@@ -14,23 +14,23 @@
 
 * 多语言预训练在原有XLM-Roberta基础上增加双语对齐策略，增强多语言之间的语义表示
          
-## 中文纯数据训练模型JoveBM-NLU-pure
+## 中文纯数据训练模型JoveBM-NLU-pd
 **该模型率先开源共享使用，该模型在两台A6000服务器(8*48G*2)训练50天而成，下载地址如下：**
 
-JoveBM-NLU-pure： <a href="https://pan.baidu.com/s/155fo1jH-bACcdM27rACinQ">百度网盘</a>下载 TensorFlow版本，Bert直接加载
+JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/155fo1jH-bACcdM27rACinQ">百度网盘</a>下载 TensorFlow版本，Bert直接加载
 
-JoveBM-NLU-pure： <a href="https://pan.baidu.com/s/1lVxTuBvorClo-7uoCAO7kQ">百度网盘</a>下载 pytorch版本，Bert直接加载
+JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/1lVxTuBvorClo-7uoCAO7kQ">百度网盘</a>下载 pytorch版本，Bert直接加载
 
-JoveBM-NLU-pure： <a href="https://pan.baidu.com/s/1zaMV5lNF2Ar3l8L4bZcsLQ">百度网盘</a>下载 Uer-Py版本，腾讯开源工具(Uer_Py)直接加载
+JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/1zaMV5lNF2Ar3l8L4bZcsLQ">百度网盘</a>下载 Uer-Py版本，腾讯开源工具(Uer_Py)直接加载
 
 
 ## 发布计划 Release Plan：
 -------------------------------------------------
-1、JoveBM-NLU-pure模型，纯数据版本，无知识增强版， 10月28日
+1、JoveBM-NLU-pd模型，纯数据版本，无知识增强版， 10月28日
 
-2、JoveBM-NLU-kge，知识增强版， 11月30日
+2、JoveBM-NLU-kg，知识增强版， 11月30日
 
-3、JoveBM-NLU-multilang，涵盖113个语种的多语言版，待定
+3、JoveBM-NLU-ml，涵盖113个语种的多语言版，待定
 
 4、未完待续……
 
