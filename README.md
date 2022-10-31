@@ -65,5 +65,5 @@ JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/1ZEtWBpbPBBXZcgSZqT67_w">百�
 | RoBERTa-wwm-large-ext | 80.42 | 
 | *JoveBM-NLU-pd** | **80.44** |
 
--------------------------------------------------
-联系方式（邮箱）：
+## 问题反馈：
+如有问题，请在GitHub Issue中留言。
