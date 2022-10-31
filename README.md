@@ -41,7 +41,7 @@ JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/1zaMV5lNF2Ar3l8L4bZcsLQ">百�
 | 模型 | 线上F1 |
 | :------- | :---------: |
 | BI-LSTM | 70 |
-| Bert | 78.82 | 
+| Bert-base | 78.82 | 
 | RoBERTa-wwm-large-ext | 80.42 | 
 | *JoveBM-NLU-pd** | **80.44** |
 
@@ -51,7 +51,8 @@ JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/1zaMV5lNF2Ar3l8L4bZcsLQ">百�
 | 模型 | All-Acc | TNEWS1.1 | IFLYTEK | AFQMC | CMNLI | WSC1.1 | CSL |
 | :------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
 | BI-LSTM | 61.2 | 49.53 | 53.27 | 69 | 58.5 | 61.1 | 75.8 |
-| Bert | 68.77 | 56.58 | 60.29 | 73.7 | 79.69 | 62 | 70.36 |
+| Bert-base | 68.77 | 56.58 | 60.29 | 73.7 | 79.69 | 62 | 80.36 |
+| Bert-wwm-ext | 68.75 | 56.84 | 59.43 | 74.07 | 80.42 | 61.1 | 79.1 |
 | RoBERTa-wwm-large-ext | 70.1 | 56.94 | 60.31 | 74.04 | 80.51 | 67.8 | 81 |
 | *JoveBM-NLU-pd** |  **75.05** | 59.41 | 62.5 | 76.39 | 82.64 | 84.54 | 84.9 |
 
