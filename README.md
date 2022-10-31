@@ -65,7 +65,9 @@
 | *JoveBM-NLU-pd** |  **75.05** | 59.41 | 62.5 | 76.39 | 82.64 | 84.54 | 84.9 |
 
 注：其他结果数据直接来自于：
+
 https://github.com/CLUEbenchmark/CLUE
+
 https://huggingface.co/Langboat/mengzi-bert-base
 
 ### CLUE-NER
