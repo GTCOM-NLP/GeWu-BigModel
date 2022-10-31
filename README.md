@@ -15,7 +15,6 @@
 * 多语言预训练在原有XLM-Roberta基础上增加双语对齐策略，增强多语言之间的语义表示
          
 ## 中文纯数据训练模型JoveBM-NLU-pure率先开源共享使用，该模型在两台A6000服务器(8*48G*2)训练50天而成，下载地址如下：
--------------------------------------------------
 JoveBM-NLU-pure： <a href="https://pan.baidu.com/s/155fo1jH-bACcdM27rACinQ">百度网盘</a>下载 TensorFlow版本，Bert直接加载
 
 JoveBM-NLU-pure： <a href="https://pan.baidu.com/s/1lVxTuBvorClo-7uoCAO7kQ">百度网盘</a>下载 pytorch版本，Bert直接加载
