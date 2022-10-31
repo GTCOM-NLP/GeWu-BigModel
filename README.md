@@ -64,6 +64,6 @@ JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/1ZEtWBpbPBBXZcgSZqT67_w">百�
 | Bert-base | 78.82 | 
 | RoBERTa-wwm-large-ext | 80.42 | 
 | *JoveBM-NLU-pd** | **80.44** |
-联系方式（邮箱）
+
 -------------------------------------------------
-XXXXXXXXXXXXXXXXX
+联系方式（邮箱）：
