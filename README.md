@@ -36,15 +36,6 @@ JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/1ZEtWBpbPBBXZcgSZqT67_w">百�
 
 效果测试与对比 Performance 
 -------------------------------------------------
-### CLUE-NER
-
-| 模型 | 线上F1 |
-| :------- | :---------: |
-| BI-LSTM | 70 |
-| Bert-base | 78.82 | 
-| RoBERTa-wwm-large-ext | 80.42 | 
-| *JoveBM-NLU-pd** | **80.44** |
-
 
 ###  CLUE-NER分类(Acc)
 
@@ -66,6 +57,14 @@ JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/1ZEtWBpbPBBXZcgSZqT67_w">百�
 | Mengzi-BERT-base | 74.71 | 57.97 | 60.68 | 74.58 | 82.12 | 87.5 | 85.4 |
 | *JoveBM-NLU-pd** |  **75.05** | 59.41 | 62.5 | 76.39 | 82.64 | 84.54 | 84.9 |
 
+### CLUE-NER
+
+| 模型 | 线上F1 |
+| :------- | :---------: |
+| BI-LSTM | 70 |
+| Bert-base | 78.82 | 
+| RoBERTa-wwm-large-ext | 80.42 | 
+| *JoveBM-NLU-pd** | **80.44** |
 联系方式（邮箱）
 -------------------------------------------------
 XXXXXXXXXXXXXXXXX
