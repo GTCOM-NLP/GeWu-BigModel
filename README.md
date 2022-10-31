@@ -18,11 +18,11 @@
 ### 1. 中文纯数据预训练模型JoveBM-NLU-pd
 **该模型率先开源共享使用，该模型在两台A6000服务器(8*48G*2)训练50天而成，下载地址如下：**
 
-JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/19k-5aLOe4pW_1qu8yAcBwA">百度网盘(验证码zyyt)</a>下载 TensorFlow版本，Bert直接加载
+* JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/19k-5aLOe4pW_1qu8yAcBwA">百度网盘(验证码zyyt)</a>下载 TensorFlow版本，Bert直接加载
 
-JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/1CvWxKCwV3ltIsUWx6R9xlQ">百度网盘(验证码zyyt)</a>下载 pytorch版本，Bert直接加载
+* JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/1CvWxKCwV3ltIsUWx6R9xlQ">百度网盘(验证码zyyt)</a>下载 pytorch版本，Bert直接加载
 
-JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/1ZEtWBpbPBBXZcgSZqT67_w">百度网盘(验证码zyyt)</a>下载 Uer-Py版本，腾讯开源工具(Uer_Py)直接加载
+* JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/1ZEtWBpbPBBXZcgSZqT67_w">百度网盘(验证码zyyt)</a>下载 Uer-Py版本，腾讯开源工具(Uer_Py)直接加载
 
 ### 2. 中文知识增强预训练模型JoveBM-NLU-kg
 
