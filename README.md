@@ -1,5 +1,5 @@
 
-# 多语言预训练JoveBM模型
+# 格物-多语言预训练模型-轻量版
 
 ## 模型简介
 * 我们的目标不是追求更大的模型规模，而是轻量级但更强大，同时对部署和工业落地更友好的模型。
@@ -15,29 +15,29 @@
 * 多语言预训练在原有XLM-Roberta基础上增加双语对齐策略，增强多语言之间的语义表示
          
 ## 模型下载
-### 1. 中文纯数据预训练模型JoveBM-NLU-pd
+### 1. 格物-中文纯数据预训练模型-轻量版（GeWu-pd）
 **该模型率先开源共享使用，该模型在两台A6000服务器(8x48Gx2)训练50天而成，下载地址如下：**
 
-* JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/19k-5aLOe4pW_1qu8yAcBwA">百度网盘(验证码zyyt)</a>下载 TensorFlow版本，Bert直接加载
+* GeWu-pd： <a href="https://pan.baidu.com/s/19k-5aLOe4pW_1qu8yAcBwA">百度网盘(验证码zyyt)</a>下载 TensorFlow版本，Bert直接加载
 
-* JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/1CvWxKCwV3ltIsUWx6R9xlQ">百度网盘(验证码zyyt)</a>下载 pytorch版本，Bert直接加载
+* GeWu-pd： <a href="https://pan.baidu.com/s/1CvWxKCwV3ltIsUWx6R9xlQ">百度网盘(验证码zyyt)</a>下载 pytorch版本，Bert直接加载
 
-* JoveBM-NLU-pd： <a href="https://pan.baidu.com/s/1ZEtWBpbPBBXZcgSZqT67_w">百度网盘(验证码zyyt)</a>下载 Uer-Py版本，腾讯开源工具(Uer_Py)直接加载
+* GeWu-pd： <a href="https://pan.baidu.com/s/1ZEtWBpbPBBXZcgSZqT67_w">百度网盘(验证码zyyt)</a>下载 Uer-Py版本，腾讯开源工具(Uer_Py)直接加载
 
-### 2. 中文知识增强预训练模型JoveBM-NLU-kg
+### 2. 格物-中文知识增强预训练模型-轻量版（GeWu-kg）
 
 敬请期待。。。
 
-### 3. 多语言预训练模型JoveBM-NLU-ml
+### 3. 格物-多语言预训练模型-轻量版（GeWu-ml）
 
 敬请期待。。。
 
 ## 发布计划 Release Plan：
-1、JoveBM-NLU-pd模型，纯数据版本，无知识增强版， 10月31日
+1、格物-中文纯数据预训练模型-轻量版（GeWu-pd）模型，纯数据版本，无知识增强版， 10月31日
 
-2、JoveBM-NLU-kg，知识增强版， 11月30日
+2、格物-中文知识增强预训练模型-轻量版（GeWu-kg），知识增强版， 11月30日
 
-3、JoveBM-NLU-ml，涵盖113个语种的多语言版，待定
+3、格物-多语言预训练模型-轻量版（GeWu-ml），涵盖113个语种的多语言版，待定
 
 4、个性化跨语言文本生成大模型，待定
 
@@ -64,7 +64,7 @@
 | RoBERTa-wwm-ext | 70.1 | 56.94 | 60.31 | 74.04 | 80.51 | 67.8 | 81 |
 | RoBERTa-wwm-large | 72.83 | 58.61 | 62.98 | 76.55 | 82.12 | 74.6 | 82.13 |
 | Mengzi-BERT-base | 74.71 | 57.97 | 60.68 | 74.58 | 82.12 | 87.5 | 85.4 |
-| ***JoveBM-NLU-pd**** |  **75.05** | 59.41 | 62.5 | 76.39 | 82.64 | 84.54 | 84.9 |
+| ***GeWu-pd**** |  **75.05** | 59.41 | 62.5 | 76.39 | 82.64 | 84.54 | 84.9 |
 
 注：其他模型评测结果数据直接来自于：
 
@@ -79,7 +79,7 @@ https://huggingface.co/Langboat/mengzi-bert-base
 | BI-LSTM | 70 |
 | Bert-base | 78.82 | 
 | RoBERTa-wwm-large-ext | 80.42 | 
-| ***JoveBM-NLU-pd**** | **80.44** |
+| ***GeWu-pd**** | **80.44** |
 
 ## 问题反馈：
 目前团队仍在不断研发和优化中，不足的地方希望批评指正
